@@ -71,5 +71,6 @@ The recommended way to avoid SQL Injections:
 Step 8: Validate the updatedmemberlist.php
   
 Notice that the givenname value has been taken as string.
+  
 
 
