@@ -1,4 +1,4 @@
-# Membership-maintenance-with-secure-coding
+# Membership-maintenance-with-secure-coding\n
 Module 3 / Activity - List
 Step 1: Setup new database
 New database named service_members created to identify a service member and the member’s posting.
