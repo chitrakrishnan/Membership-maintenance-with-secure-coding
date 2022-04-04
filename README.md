@@ -1,6 +1,7 @@
-# Membership-maintenance-with-secure-coding\n
+# Membership-maintenance-with-secure-coding
 Module 3 / Activity - List
-Step 1: Setup new database
+Step 1: Setup new database 
+
 New database named service_members created to identify a service member and the member’s posting.
 Create new database service_members using “setupdatabase.php”
 Verify from phpMyAdmin console if the database got created successfully.
